@@ -1,2 +1,2 @@
-# Excel_project
+# Projects
 This is MS-Excel end to end project
